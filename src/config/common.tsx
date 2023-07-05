@@ -20,7 +20,7 @@ const BotIcon = createIcon({
 });
 
 export const config: AppConfig = {
-  name: 'Demo Bot',
+  name: 'Emiko',
   icon: BotIcon,
   inviteUrl:
     'https://discord.com/api/oauth2/authorize?client_id=1120985542868336650&permissions=8&scope=bot',
